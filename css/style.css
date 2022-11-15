@@ -1,0 +1,30 @@
+.header-background {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.astrid-pink {
+    background-color: #e91e63;
+}
+.kickboxing {
+    background: url(../assets/img/kickboxing.jpg) no-repeat center center fixed;
+}
+.tennis {
+    background: url(../assets/img/tennis.jpg) no-repeat center center fixed;
+}
+.cooking {
+    background: url(../assets/img/cooking.jpg) no-repeat center center fixed;
+}
+.music {
+    background: url(../assets/img/music.jpg) no-repeat center center fixed;
+}
+.coffee {
+    background: url(../assets/img/coffee.jpg) no-repeat center center fixed;
+}
+.photography {
+    background: url(../assets/img/photography.jpg) no-repeat center center fixed;
+}
+.designing {
+    background: url(../assets/img/designing.jpg) no-repeat center center fixed;
+}
